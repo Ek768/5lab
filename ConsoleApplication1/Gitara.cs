@@ -20,7 +20,7 @@ namespace ConsoleApplication1
         }
         public override void Get_info()
         {
-            Console.WriteLine(ID.ToString() + " " + Price.ToString() + " " + Vid_instrumenta.ToString() + " " + Marka_instrumenta.ToString() + " " + Release_data.ToString("MMMM dd, yyyy"));
+            Console.WriteLine(ID.ToString() + ", " + Price.ToString() + ", " + Vid_instrumenta.ToString() + ", " + Marka_instrumenta.ToString() + ", " + Release_data.ToString("dd MMMM, yyyy"));
         }
     }
 }

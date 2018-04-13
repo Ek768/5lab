@@ -19,7 +19,7 @@ namespace ConsoleApplication1
 
         public virtual void Get_info()
         {
-            Console.WriteLine(ID.ToString() + " " + Price.ToString());
+            Console.WriteLine(ID.ToString() + ", " + Price.ToString());
         }
     }
 }

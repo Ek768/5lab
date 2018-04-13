@@ -19,7 +19,7 @@ namespace ConsoleApplication1
                 ListTovar.Add(new Tovar(skripka_nomenklatura, 7000));
                 ListTovar.Add(new Gitara(gitara_nomenklatura, 15000, "electric_guitar", "YAMAHA", new DateTime(2015, 03, 07)));
                 ListTovar.Add(new Gitara(gitara_nomenklatura, 20000, "acoustic_guitar", "Crafter", new DateTime(2000, 01, 28)));
-                ListTovar.Add(new Baraban(baraban_nomenklatura, 17000, "YAMAHA", new DateTime(2016, 09, 10)));
+                ListTovar.Add(new Baraban(baraban_nomenklatura, 17000, "YAMAHA", "wood - leather", new DateTime(2016, 09, 10)));
 
 
                 foreach (Tovar t in ListTovar)
