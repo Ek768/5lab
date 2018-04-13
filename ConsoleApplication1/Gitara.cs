@@ -18,5 +18,9 @@ namespace ConsoleApplication1
             this.Marka_instrumenta = Marka_instrumenta;
             this.Release_data = Release_data;
         }
+        public override void Get_info()
+        {
+            Console.WriteLine(ID.ToString() + " " + Price.ToString() + " " + Vid_instrumenta.ToString() + " " + Marka_instrumenta.ToString() + " " + Release_data.ToString("MMMM dd, yyyy"));
+        }
     }
 }

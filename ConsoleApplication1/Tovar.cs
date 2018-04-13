@@ -17,7 +17,7 @@ namespace ConsoleApplication1
             this.Price = Price;
         }
 
-        public void Get_info()
+        public virtual void Get_info()
         {
             Console.WriteLine(ID.ToString() + " " + Price.ToString());
         }
