@@ -1,6 +1,0 @@
-E:\ПРОГРАММИРОВАНИЕ\5лаба\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-E:\ПРОГРАММИРОВАНИЕ\5лаба\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-E:\ПРОГРАММИРОВАНИЕ\5лаба\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-E:\ПРОГРАММИРОВАНИЕ\5лаба\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-E:\ПРОГРАММИРОВАНИЕ\5лаба\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-E:\ПРОГРАММИРОВАНИЕ\5лаба\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
